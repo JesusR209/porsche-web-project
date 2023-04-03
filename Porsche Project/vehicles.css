@@ -1,0 +1,32 @@
+.header-one{
+    margin-left: 8%;
+    width: 50%;
+    position: absolute;
+    top: 100px;
+    left: 20px;
+}
+
+.header-two{
+    margin-left: 9%;
+    width: 70%;
+    position: absolute;
+    top: 150px;
+    left: 20px;
+}
+
+.collection-button {
+    font-size: large;
+    float: left;
+    position: absolute;
+    margin-left: 43%;
+    top: 100%;
+    max-width: 750px;
+    /* -webkit-box-shadow: -4px 7px 17px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: -4px 7px 17px 0px rgba(0,0,0,0.75); */
+box-shadow: -4px 7px 17px 0px rgba(0,0,0,0.75);
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 30px 80px 30px 80px;
+    background-color: rgb(198, 60, 157);
+    border-radius: 8px;
+}
