@@ -1,0 +1,61 @@
+{
+  "models": [
+    {
+      "name": "911 Carrera",
+      "description": "The Porsche 911 Carrera is the quintessential sports car. With a sleek and timeless design, powerful engine, and superb handling, it's the perfect car for enthusiasts and casual drivers alike.",
+      "horsepower": 379,
+      "torque": 331,
+      "year": 2021,
+      "engine_size": 3.0
+    },
+    {
+      "name": "911 Turbo S",
+      "description": "The Porsche 911 Turbo S is a high-performance sports car that offers blistering speed and handling. With a top speed of over 200 miles per hour and advanced aerodynamics, this car is a true driver's machine.",
+      "horsepower": 640,
+      "torque": 590,
+      "year": 2022,
+      "engine_size": 3.8
+    },
+    {
+      "name": "Boxster",
+      "description": "The Porsche Boxster is a mid-engined convertible that offers a perfect balance of performance and style. With a powerful engine, responsive handling, and a stunning design, it's a car that's sure to turn heads.",
+      "horsepower": 300,
+      "torque": 280,
+      "year": 2021,
+      "engine_size": 2.0
+    },
+    {
+      "name": "Cayenne",
+      "description": "The Porsche Cayenne is a luxury SUV that offers impressive performance and comfort. With a spacious and well-appointed interior, advanced safety features, and a powerful engine, it's the perfect car for families and drivers who want both style and substance.",
+      "horsepower": 335,
+      "torque": 332,
+      "year": 2021,
+      "engine_size": 3.0
+    },
+    {
+      "name": "Panamera",
+      "description": "The Porsche Panamera is a four-door sedan that offers exceptional performance and style. With a refined interior, advanced technology, and a powerful engine, it's the perfect car for drivers who demand the best of both worlds.",
+      "horsepower": 325,
+      "torque": 331,
+      "year": 2022,
+      "engine_size": 2.9
+    },
+    {
+      "name": "Macan",
+      "description": "The Porsche Macan is a compact SUV that offers impressive performance and handling. With a sporty design, spacious interior, and a powerful engine, it's the perfect car for drivers who want the practicality of an SUV without sacrificing driving pleasure.",
+      "horsepower": 248,
+      "torque": 273,
+      "year": 2021,
+      "engine_size": 2.0
+    },
+    {
+      "name": "911 GT3",
+      "description": "The Porsche 911 GT3 is a high-performance sports car that's designed for track use. With a lightweight design, advanced aerodynamics, and a naturally aspirated engine, it offers a thrilling driving experience that's hard to match.",
+      "horsepower": 502,
+      "torque": 346,
+      "year": 2022,
+      "engine_size": 4.0
+    }
+  ]
+}
+
