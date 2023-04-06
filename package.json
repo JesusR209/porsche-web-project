@@ -1,0 +1,23 @@
+{
+  "name": "porsche-web-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --watch ./database/db.json"  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JesusR209/porsche-web-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JesusR209/porsche-web-project/issues"
+  },
+  "homepage": "https://github.com/JesusR209/porsche-web-project#readme",
+  "dependencies": {
+    "json-server": "^0.17.3"
+  }
+}
